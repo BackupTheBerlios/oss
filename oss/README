@@ -1,0 +1,12 @@
+openserver
+CopyRight (C) 2004 - 2005 RuXu W.
+
+openserver development team. (please see AUTHORS)
+
+openserver is a enterprise level server software architecture, which mainly focus on high performance network communication.
+such as low-latency connection response (10K class), high throughput, plug-in management, event dispatch, memory management.
+provide a flexible solution for maximize server performance.
+
+user who want to develop a server base on a private protocol or public protocol is just to implement the logical component.
+aps will load plugin and dispatch all socket event to register plugin via user defined procedure.
+
